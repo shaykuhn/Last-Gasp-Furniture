@@ -1,0 +1,53 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: lightblue;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th {
+  color: #4d6082;
+}
+
+hr {
+  width: 80%;
+  border: 3px solid lightblue;
+  border-radius: 3px;
+  position: relative;
+}
+
+button {
+  display: block;
+  margin: auto;
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+  padding: 8px;
+  background-color: #4d6082;
+  color: white;
+  border-radius: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#purchase{
+  background-color: white;
+  color: cornflowerblue;
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+  padding: 30px 40px;
+  margin: 100px 400px;
+  border-radius: 10px;
+}
+
+#table1, #table2 {
+  text-align: left;
+}
+
