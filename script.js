@@ -89,7 +89,7 @@ function function0(){
       case 'RI':
       case 'CT':
       case 'NJ':
-      shiping = 0;
+      shipping = 0;
       break;
 
       // shipping for zone 2 states
